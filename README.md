@@ -4,6 +4,8 @@
 ### User can hover over the list to select the item.<br>
 ### ZingTouch library is used to make the rotate event.
 
+### To see the project: https://ipodreactcn.netlify.app
+
 ![ipod](https://github.com/shubhamdhiman/Ipod-Reactjs-Minor-Project-CN/assets/18380165/9bebe992-ea3c-4672-966e-ee394392a0cc)
 
 
