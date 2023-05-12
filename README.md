@@ -20,7 +20,7 @@
 ![ipod2](https://github.com/shubhamdhiman/Ipod-Reactjs-Minor-Project-CN/assets/18380165/b82bc3d3-c4d3-4798-8258-8c844ad47490)
 
 ## To run the project
-  npm install
+  npm install<br>
   npm start
 
 ## Contact Me
