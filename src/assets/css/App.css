@@ -1,0 +1,16 @@
+/* Ipod Body */
+.App {
+  position: absolute;
+  background: radial-gradient(#9c0000, #cc7d7d);
+  height: 500px;
+  width: 250px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px #555555;
+}
